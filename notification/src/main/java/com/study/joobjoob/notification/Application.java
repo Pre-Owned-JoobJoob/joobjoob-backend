@@ -1,13 +1,13 @@
-package com.study.joobjoob;
+package com.study.joobjoob.notification;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JoobjoobApplication {
+public class Application {
 
   public static void main(String[] args) {
-    SpringApplication.run(JoobjoobApplication.class, args);
+    SpringApplication.run(Application.class, args);
   }
 
 }
